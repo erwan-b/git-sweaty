@@ -8253,5 +8253,18 @@
     "start_date_local": "2026-05-20T12:03:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 21259.6,
+    "elevation_gain": 39.0,
+    "id": "18631738969",
+    "moving_time": 6214.0,
+    "name": "Semi en plein en cagnard",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T09:30:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

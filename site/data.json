@@ -5714,6 +5714,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18580482797",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 9,
+      "name": "Semi en plein en cagnard",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18631738969",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10837,6 +10846,15 @@
           "distance": 6729.1,
           "elevation_gain": 44.0,
           "moving_time": 2299.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18631738969"
+          ],
+          "count": 1,
+          "distance": 21259.6,
+          "elevation_gain": 39.0,
+          "moving_time": 6214.0
         }
       },
       "Snowboard": {
@@ -11091,7 +11109,7 @@
       }
     }
   },
-  "generated_at": "2026-05-23T16:02:12.190313+00:00",
+  "generated_at": "2026-05-24T16:01:16.191210+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",
