@@ -8344,5 +8344,44 @@
     "start_date_local": "2026-06-01T12:35:02Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 11443.9,
+    "elevation_gain": 42.0,
+    "id": "18767843458",
+    "moving_time": 1527.0,
+    "name": "Sortie v\u00e9lo le midi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-03T12:12:56Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 8820.7,
+    "elevation_gain": 516.0,
+    "id": "18768791922",
+    "moving_time": 4202.0,
+    "name": "Trail le midi",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-03T12:43:36Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 11956.2,
+    "elevation_gain": 32.0,
+    "id": "18769204739",
+    "moving_time": 1555.0,
+    "name": "Sortie v\u00e9lo dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-03T13:59:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
