@@ -5804,6 +5804,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18769204739",
       "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18794127742",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 11,
+      "name": "Pause midi efficace",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18795314575",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18795815924",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10584,6 +10611,16 @@
           "distance": 23400.1,
           "elevation_gain": 74.0,
           "moving_time": 3082.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18794127742",
+            "18795815924"
+          ],
+          "count": 2,
+          "distance": 25137.8,
+          "elevation_gain": 94.0,
+          "moving_time": 3747.0
         }
       },
       "Run": {
@@ -11239,6 +11276,15 @@
           "distance": 8820.7,
           "elevation_gain": 516.0,
           "moving_time": 4202.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18795314575"
+          ],
+          "count": 1,
+          "distance": 18462.0,
+          "elevation_gain": 426.0,
+          "moving_time": 6622.0
         }
       },
       "Walk": {
@@ -11263,7 +11309,7 @@
       }
     }
   },
-  "generated_at": "2026-06-04T17:46:08.022406+00:00",
+  "generated_at": "2026-06-05T17:17:55.384127+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",

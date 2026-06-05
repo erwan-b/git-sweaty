@@ -8383,5 +8383,44 @@
     "start_date_local": "2026-06-03T13:59:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 12416.5,
+    "elevation_gain": 54.0,
+    "id": "18794127742",
+    "moving_time": 1834.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-05T10:54:57Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 18462.0,
+    "elevation_gain": 426.0,
+    "id": "18795314575",
+    "moving_time": 6622.0,
+    "name": "Pause midi efficace",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-05T11:30:01Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 12721.3,
+    "elevation_gain": 40.0,
+    "id": "18795815924",
+    "moving_time": 1913.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-05T13:27:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
