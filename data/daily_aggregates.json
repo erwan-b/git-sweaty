@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T16:16:43.420344+00:00",
+  "generated_at": "2026-06-08T17:53:47.742684+00:00",
   "years": {
     "2019": {
       "NordicSki": {
@@ -5470,6 +5470,15 @@
           "distance": 18462.0,
           "elevation_gain": 426.0,
           "moving_time": 6622.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18835242090"
+          ],
+          "count": 1,
+          "distance": 9920.4,
+          "elevation_gain": 215.0,
+          "moving_time": 3787.0
         }
       },
       "Walk": {
