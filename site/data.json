@@ -5858,6 +5858,24 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18835242090",
       "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 12,
+      "name": "Trail le midi",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18863569705",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18866840880",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10648,6 +10666,15 @@
           "distance": 25137.8,
           "elevation_gain": 94.0,
           "moving_time": 3747.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18866840880"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2.0
         }
       },
       "Run": {
@@ -11339,6 +11366,15 @@
           "distance": 9920.4,
           "elevation_gain": 215.0,
           "moving_time": 3787.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18863569705"
+          ],
+          "count": 1,
+          "distance": 10753.9,
+          "elevation_gain": 695.0,
+          "moving_time": 5093.0
         }
       },
       "Walk": {
@@ -11363,7 +11399,7 @@
       }
     }
   },
-  "generated_at": "2026-06-09T17:24:55.274287+00:00",
+  "generated_at": "2026-06-10T17:57:21.878163+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",

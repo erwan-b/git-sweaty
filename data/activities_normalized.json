@@ -8461,5 +8461,31 @@
     "start_date_local": "2026-06-08T12:20:34Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 10753.9,
+    "elevation_gain": 695.0,
+    "id": "18863569705",
+    "moving_time": 5093.0,
+    "name": "Trail le midi",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-10T12:15:35Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18866840880",
+    "moving_time": 2.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-10T18:20:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
