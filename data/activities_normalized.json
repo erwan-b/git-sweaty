@@ -8539,5 +8539,18 @@
     "start_date_local": "2026-06-16T12:29:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 8955.9,
+    "elevation_gain": 48.0,
+    "id": "18993536004",
+    "moving_time": 3142.0,
+    "name": "C\u2019est un sauna dehors",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-20T09:48:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

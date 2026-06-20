@@ -5912,6 +5912,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18941944239",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 9,
+      "name": "C\u2019est un sauna dehors",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18993536004",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11146,6 +11155,15 @@
           "distance": 11303.0,
           "elevation_gain": 275.0,
           "moving_time": 4068.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "18993536004"
+          ],
+          "count": 1,
+          "distance": 8955.9,
+          "elevation_gain": 48.0,
+          "moving_time": 3142.0
         }
       },
       "Snowboard": {
@@ -11463,7 +11481,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T17:19:57.667997+00:00",
+  "generated_at": "2026-06-20T16:18:24.772026+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",
