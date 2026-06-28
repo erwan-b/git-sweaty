@@ -5939,6 +5939,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/19073840460",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 9,
+      "name": "\u00c9court\u00e9 \ud83d\udc15",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/19095785257",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11493,6 +11502,15 @@
           "distance": 18204.1,
           "elevation_gain": 428.0,
           "moving_time": 7834.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19095785257"
+          ],
+          "count": 1,
+          "distance": 12512.8,
+          "elevation_gain": 291.0,
+          "moving_time": 5090.0
         }
       },
       "Walk": {
@@ -11517,7 +11535,7 @@
       }
     }
   },
-  "generated_at": "2026-06-27T16:04:44.746725+00:00",
+  "generated_at": "2026-06-28T16:11:14.418139+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",
