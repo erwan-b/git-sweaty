@@ -8591,5 +8591,44 @@
     "start_date_local": "2026-06-28T09:09:21Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 34269.7,
+    "elevation_gain": 1963.0,
+    "id": "19268377621",
+    "moving_time": 18867.0,
+    "name": "Entra\u00eenement Meribel",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-11T08:52:00Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 10290.8,
+    "elevation_gain": 23.0,
+    "id": "19294597009",
+    "moving_time": 3871.0,
+    "name": "Au bord de l\u2019eau",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-13T14:07:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 7387.7,
+    "elevation_gain": 53.0,
+    "id": "19320177760",
+    "moving_time": 2652.0,
+    "name": "Course \u00e0 pied le matin",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-15T10:20:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

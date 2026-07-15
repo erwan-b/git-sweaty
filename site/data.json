@@ -5948,6 +5948,33 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/19095785257",
       "year": 2026
+    },
+    {
+      "date": "2026-07-11",
+      "hour": 8,
+      "name": "Entra\u00eenement Meribel",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/19268377621",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-13",
+      "hour": 14,
+      "name": "Au bord de l\u2019eau",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19294597009",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-15",
+      "hour": 10,
+      "name": "Course \u00e0 pied le matin",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19320177760",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11200,6 +11227,24 @@
           "distance": 13741.1,
           "elevation_gain": 67.0,
           "moving_time": 5043.0
+        },
+        "2026-07-13": {
+          "activity_ids": [
+            "19294597009"
+          ],
+          "count": 1,
+          "distance": 10290.8,
+          "elevation_gain": 23.0,
+          "moving_time": 3871.0
+        },
+        "2026-07-15": {
+          "activity_ids": [
+            "19320177760"
+          ],
+          "count": 1,
+          "distance": 7387.7,
+          "elevation_gain": 53.0,
+          "moving_time": 2652.0
         }
       },
       "Snowboard": {
@@ -11511,6 +11556,15 @@
           "distance": 12512.8,
           "elevation_gain": 291.0,
           "moving_time": 5090.0
+        },
+        "2026-07-11": {
+          "activity_ids": [
+            "19268377621"
+          ],
+          "count": 1,
+          "distance": 34269.7,
+          "elevation_gain": 1963.0,
+          "moving_time": 18867.0
         }
       },
       "Walk": {
@@ -11535,7 +11589,7 @@
       }
     }
   },
-  "generated_at": "2026-06-30T17:06:37.851300+00:00",
+  "generated_at": "2026-07-15T16:21:33.685853+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",
