@@ -8630,5 +8630,18 @@
     "start_date_local": "2026-07-15T10:20:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 11470.7,
+    "elevation_gain": 282.0,
+    "id": "19335046601",
+    "moving_time": 4184.0,
+    "name": "Trail le midi",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-16T12:02:21Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
