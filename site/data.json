@@ -5984,6 +5984,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/19335046601",
       "year": 2026
+    },
+    {
+      "date": "2026-07-19",
+      "hour": 17,
+      "name": "Changement de plan en cour de route",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19380113112",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11254,6 +11263,15 @@
           "distance": 7387.7,
           "elevation_gain": 53.0,
           "moving_time": 2652.0
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "19380113112"
+          ],
+          "count": 1,
+          "distance": 18673.3,
+          "elevation_gain": 238.0,
+          "moving_time": 7184.0
         }
       },
       "Snowboard": {
@@ -11607,7 +11625,7 @@
       }
     }
   },
-  "generated_at": "2026-07-19T15:57:48.929137+00:00",
+  "generated_at": "2026-07-20T16:23:58.372491+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",

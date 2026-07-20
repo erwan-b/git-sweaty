@@ -8643,5 +8643,18 @@
     "start_date_local": "2026-07-16T12:02:21Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 18673.3,
+    "elevation_gain": 238.0,
+    "id": "19380113112",
+    "moving_time": 7184.0,
+    "name": "Changement de plan en cour de route",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-19T17:26:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
