@@ -6002,6 +6002,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19400338316",
       "year": 2026
+    },
+    {
+      "date": "2026-07-22",
+      "hour": 17,
+      "name": "Course \u00e0 pied dans l'apr\u00e8s-midi",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19419833850",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11290,6 +11299,15 @@
           "distance": 7952.3,
           "elevation_gain": 59.0,
           "moving_time": 3027.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19419833850"
+          ],
+          "count": 1,
+          "distance": 8101.0,
+          "elevation_gain": 310.0,
+          "moving_time": 3415.0
         }
       },
       "Snowboard": {
@@ -11643,7 +11661,7 @@
       }
     }
   },
-  "generated_at": "2026-07-21T16:22:59.009263+00:00",
+  "generated_at": "2026-07-22T16:19:43.855654+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",
