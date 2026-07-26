@@ -8695,5 +8695,18 @@
     "start_date_local": "2026-07-24T15:53:41Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 8215.3,
+    "elevation_gain": 44.0,
+    "id": "19461822266",
+    "moving_time": 2072.0,
+    "name": "V\u00e9lo en famille",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-25T17:07:35Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
