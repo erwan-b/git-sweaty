@@ -8747,5 +8747,18 @@
     "start_date_local": "2026-07-29T12:01:12Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 7756.6,
+    "elevation_gain": 288.0,
+    "id": "19539257200",
+    "moving_time": 3500.0,
+    "name": "Trail le matin",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-31T08:31:18Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
