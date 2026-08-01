@@ -8760,5 +8760,18 @@
     "start_date_local": "2026-07-31T08:31:18Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 13929.3,
+    "elevation_gain": 238.0,
+    "id": "19551951635",
+    "moving_time": 5457.0,
+    "name": "Course \u00e0 pied matinale",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-01T08:31:18Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
