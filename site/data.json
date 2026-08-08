@@ -6092,6 +6092,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19640525893",
       "year": 2026
+    },
+    {
+      "date": "2026-08-08",
+      "hour": 9,
+      "name": "kV dans la gueule",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/19651927609",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11801,6 +11810,15 @@
           "distance": 3501.8,
           "elevation_gain": 301.0,
           "moving_time": 2148.0
+        },
+        "2026-08-08": {
+          "activity_ids": [
+            "19651927609"
+          ],
+          "count": 1,
+          "distance": 2602.3,
+          "elevation_gain": 1012.0,
+          "moving_time": 3431.0
         }
       },
       "Walk": {
@@ -11825,7 +11843,7 @@
       }
     }
   },
-  "generated_at": "2026-08-07T15:55:31.142689+00:00",
+  "generated_at": "2026-08-08T15:29:13.617813+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",
