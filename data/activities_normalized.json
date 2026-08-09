@@ -8812,5 +8812,31 @@
     "start_date_local": "2026-08-08T09:30:05Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 1040.3,
+    "elevation_gain": 64.0,
+    "id": "19656480404",
+    "moving_time": 1245.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-08T16:49:01Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 42155.9,
+    "elevation_gain": 3445.0,
+    "id": "19669037139",
+    "moving_time": 27437.0,
+    "name": "Meribel trail",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-09T07:00:29Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
