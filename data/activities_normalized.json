@@ -8838,5 +8838,31 @@
     "start_date_local": "2026-08-09T07:00:29Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 10698.4,
+    "elevation_gain": 637.0,
+    "id": "19727900350",
+    "moving_time": 6972.0,
+    "name": "Afternoon Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-13T16:30:31Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 9622.3,
+    "elevation_gain": 686.0,
+    "id": "19737618466",
+    "moving_time": 9160.0,
+    "name": "Randonn\u00e9e le matin",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-14T09:52:57Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
