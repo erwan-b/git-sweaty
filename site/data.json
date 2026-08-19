@@ -6137,6 +6137,24 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19737618466",
       "year": 2026
+    },
+    {
+      "date": "2026-08-15",
+      "hour": 15,
+      "name": "Afternoon Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19805051418",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 8,
+      "name": "Morning Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/19805051580",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10916,6 +10934,15 @@
           "distance": 9622.3,
           "elevation_gain": 686.0,
           "moving_time": 9160.0
+        },
+        "2026-08-15": {
+          "activity_ids": [
+            "19805051418"
+          ],
+          "count": 1,
+          "distance": 6601.0,
+          "elevation_gain": 284.0,
+          "moving_time": 6872.0
         }
       },
       "Ride": {
@@ -11891,6 +11918,15 @@
           "distance": 10698.4,
           "elevation_gain": 637.0,
           "moving_time": 6972.0
+        },
+        "2026-08-19": {
+          "activity_ids": [
+            "19805051580"
+          ],
+          "count": 1,
+          "distance": 7909.6,
+          "elevation_gain": 289.0,
+          "moving_time": 3494.0
         }
       },
       "Walk": {
@@ -11915,7 +11951,7 @@
       }
     }
   },
-  "generated_at": "2026-08-18T15:31:07.992202+00:00",
+  "generated_at": "2026-08-19T15:30:45.134128+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",
