@@ -9007,5 +9007,31 @@
     "start_date_local": "2026-09-06T09:40:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 10658.9,
+    "elevation_gain": 33.0,
+    "id": "20074884721",
+    "moving_time": 2699.0,
+    "name": "Sortie v\u00e9lo dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-07T16:09:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 6503.9,
+    "elevation_gain": 37.0,
+    "id": "20075826289",
+    "moving_time": 2341.0,
+    "name": "Course \u00e0 pied dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-07T17:28:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
