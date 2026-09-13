@@ -6272,6 +6272,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20131921270",
       "year": 2026
+    },
+    {
+      "date": "2026-09-13",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20161860546",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11751,6 +11760,15 @@
           "distance": 6792.5,
           "elevation_gain": 39.0,
           "moving_time": 2306.0
+        },
+        "2026-09-13": {
+          "activity_ids": [
+            "20161860546"
+          ],
+          "count": 1,
+          "distance": 11863.3,
+          "elevation_gain": 59.0,
+          "moving_time": 3728.0
         }
       },
       "Snowboard": {
@@ -12185,7 +12203,7 @@
       }
     }
   },
-  "generated_at": "2026-09-12T17:41:38.533709+00:00",
+  "generated_at": "2026-09-13T17:55:41.678677+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",
