@@ -9085,5 +9085,18 @@
     "start_date_local": "2026-09-14T17:49:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 25028.8,
+    "elevation_gain": 171.0,
+    "id": "20225302979",
+    "moving_time": 4914.0,
+    "name": "Sortie v\u00e9lo le matin",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-18T10:20:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
