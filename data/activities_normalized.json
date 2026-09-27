@@ -9137,5 +9137,18 @@
     "start_date_local": "2026-09-23T20:27:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 16186.3,
+    "elevation_gain": 224.0,
+    "id": "20347908590",
+    "moving_time": 4482.0,
+    "name": "Paris Versailles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-27T10:21:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
