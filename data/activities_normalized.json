@@ -9150,5 +9150,31 @@
     "start_date_local": "2026-09-27T10:21:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 1835.9,
+    "elevation_gain": 11.0,
+    "id": "20442703809",
+    "moving_time": 672.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-04T09:34:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 5039.4,
+    "elevation_gain": 7.0,
+    "id": "20443087658",
+    "moving_time": 1186.0,
+    "name": "L'Asni\u00e8roise 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-04T10:02:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

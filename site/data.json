@@ -6335,6 +6335,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20347908590",
       "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 9,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20442703809",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 10,
+      "name": "L'Asni\u00e8roise 2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20443087658",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11877,6 +11895,16 @@
           "distance": 16186.3,
           "elevation_gain": 224.0,
           "moving_time": 4482.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "20442703809",
+            "20443087658"
+          ],
+          "count": 2,
+          "distance": 6875.299999999999,
+          "elevation_gain": 18.0,
+          "moving_time": 1858.0
         }
       },
       "Snowboard": {
@@ -12311,7 +12339,7 @@
       }
     }
   },
-  "generated_at": "2026-10-03T18:33:46.538554+00:00",
+  "generated_at": "2026-10-04T18:32:14.777281+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",
