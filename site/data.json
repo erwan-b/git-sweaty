@@ -6353,6 +6353,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20443087658",
       "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 8,
+      "name": "Course \u00e0 pied le matin",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20470293757",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11905,6 +11914,15 @@
           "distance": 6875.299999999999,
           "elevation_gain": 18.0,
           "moving_time": 1858.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20470293757"
+          ],
+          "count": 1,
+          "distance": 7162.1,
+          "elevation_gain": 42.0,
+          "moving_time": 2548.0
         }
       },
       "Snowboard": {
@@ -12339,7 +12357,7 @@
       }
     }
   },
-  "generated_at": "2026-10-05T21:50:43.841624+00:00",
+  "generated_at": "2026-10-06T19:59:20.343170+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",

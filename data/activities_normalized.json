@@ -9176,5 +9176,18 @@
     "start_date_local": "2026-10-04T10:02:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-06",
+    "distance": 7162.1,
+    "elevation_gain": 42.0,
+    "id": "20470293757",
+    "moving_time": 2548.0,
+    "name": "Course \u00e0 pied le matin",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-06T08:44:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
