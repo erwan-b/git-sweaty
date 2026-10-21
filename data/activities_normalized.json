@@ -9254,5 +9254,18 @@
     "start_date_local": "2026-10-17T09:31:34Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 8678.7,
+    "elevation_gain": 54.0,
+    "id": "20672864395",
+    "moving_time": 3062.0,
+    "name": "Course \u00e0 pied le midi",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-21T12:00:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
