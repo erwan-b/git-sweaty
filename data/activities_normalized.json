@@ -9267,5 +9267,18 @@
     "start_date_local": "2026-10-21T12:00:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 23269.4,
+    "elevation_gain": 477.0,
+    "id": "20709723165",
+    "moving_time": 9121.0,
+    "name": "Trail le matin",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-10-24T08:44:09Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]

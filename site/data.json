@@ -6416,6 +6416,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20672864395",
       "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 8,
+      "name": "Trail le matin",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/20709723165",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12441,6 +12450,15 @@
           "distance": 10282.7,
           "elevation_gain": 265.0,
           "moving_time": 4515.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "20709723165"
+          ],
+          "count": 1,
+          "distance": 23269.4,
+          "elevation_gain": 477.0,
+          "moving_time": 9121.0
         }
       },
       "Walk": {
@@ -12465,7 +12483,7 @@
       }
     }
   },
-  "generated_at": "2026-10-23T18:53:54.269821+00:00",
+  "generated_at": "2026-10-24T17:52:25.463655+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",
