@@ -6461,6 +6461,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20844823894",
       "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 11,
+      "name": "Course \u00e0 pied le midi",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20855375762",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12103,6 +12112,15 @@
           "distance": 6798.0,
           "elevation_gain": 49.0,
           "moving_time": 2494.0
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "20855375762"
+          ],
+          "count": 1,
+          "distance": 11538.9,
+          "elevation_gain": 43.0,
+          "moving_time": 3959.0
         }
       },
       "Snowboard": {
@@ -12555,7 +12573,7 @@
       }
     }
   },
-  "generated_at": "2026-11-03T20:47:38.826132+00:00",
+  "generated_at": "2026-11-04T21:04:22.951193+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",
