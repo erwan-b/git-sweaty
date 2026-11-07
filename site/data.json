@@ -6470,6 +6470,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20855375762",
       "year": 2026
+    },
+    {
+      "date": "2026-11-07",
+      "hour": 11,
+      "name": "Trail le midi",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/20895563993",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12549,6 +12558,15 @@
           "distance": 23269.4,
           "elevation_gain": 477.0,
           "moving_time": 9121.0
+        },
+        "2026-11-07": {
+          "activity_ids": [
+            "20895563993"
+          ],
+          "count": 1,
+          "distance": 34685.4,
+          "elevation_gain": 781.0,
+          "moving_time": 12749.0
         }
       },
       "Walk": {
@@ -12573,7 +12591,7 @@
       }
     }
   },
-  "generated_at": "2026-11-06T20:42:09.835645+00:00",
+  "generated_at": "2026-11-07T19:15:52.226360+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",
