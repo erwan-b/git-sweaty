@@ -6497,6 +6497,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20982822046",
       "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 17,
+      "name": "Course \u00e0 pied dans l'apr\u00e8s-midi",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21036071959",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 16,
+      "name": "Course \u00e0 pied dans l'apr\u00e8s-midi",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21036079728",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12166,6 +12184,24 @@
           "distance": 5525.5,
           "elevation_gain": 36.0,
           "moving_time": 2153.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "21036071959"
+          ],
+          "count": 1,
+          "distance": 6869.5,
+          "elevation_gain": 46.0,
+          "moving_time": 2426.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "21036079728"
+          ],
+          "count": 1,
+          "distance": 6513.5,
+          "elevation_gain": 39.0,
+          "moving_time": 2333.0
         }
       },
       "Snowboard": {
@@ -12627,7 +12663,7 @@
       }
     }
   },
-  "generated_at": "2026-11-17T22:47:17.514740+00:00",
+  "generated_at": "2026-11-18T22:29:10.898756+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46937806",
   "repo": "erwan-b/git-sweaty",
